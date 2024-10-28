@@ -1,0 +1,28 @@
+Identifier: 
+
+Title: CUERPOS DE AGUA ESCALA 1:50 000
+
+Description: Información digital estructurada con salida gráfica, que integra el estudio de los cuerpos de agua superficiales a nivel nacional. En su estructura contiene capas individuales de 16 objetos espaciales que conforman los cuerpos de agua de acuerdo a su clasificación; éstos han sido definidos en dos grandes grupos según su origen: natural y artificial, así como por su régimen: perenne o intermitente. De igual forma, se han definido nueve usos asociados a estos cuerpos de agua: acuícola, consumo humano, generación de electricidad, irrigación, pecuario, planta de tratamiento, recreativo, resguardo, salina. La identificación y clasificación de los mismos, se realizó sobre las imágenes RapiEye, 2012; SPOT multiespectral 2010-2011 y pancromática, 2009, así como sobre ortofotos. De igual forma, se utilizaron insumos institucionales como las curvas de nivel escala 1:50 000 y 1:250 000, Vegetación y Uso de Suelo 1:250 000. La información se complementa con las características geográficas de altitud, clave del estado, términos genéricos asociados, área y perímetro. 
+
+Modified: 2016-09-30
+
+Publisher: Instituto Nacional de Estadística y Geografía, INEGI
+
+Mbox: atencion.usuarios@inegi.org.mx
+
+License: Términos de Libre Uso de la Información del INEGI http://www.inegi.org.mx/terminos/terminos_info.aspx
+
+DataDictionary: http://internet.contenidos.inegi.org.mx/contenidos/productos//prod_serv/contenidos/espanol/bvinegi/productos/nueva_estruc/702825080129.pdf
+
+Keyword: Área Inundable, Arroyo, Canal, Cenote, Estanque, Estero, Lago, Laguna, Marina, Marisma, Pantano, Poza, Río, Terreno Sujeto a Inundación, Vaso de la Presa, Vaso del Bordo
+
+ContactPoint: Lic. José de Jesús Esquivel de la Rosa, 01800 111 4634
+
+Temporal: 2012-07-31 
+
+Spatial: Estados Unidos Mexicanos
+
+AccrualPeriodicity: Cada 5 años
+
+Distribution: Está pendiente su publicación
+
